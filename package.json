@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "cartier-watches-wonders-3d",
   "version": "1.0.0",
-  "description": "This project is a simple Python implementation of the **Caesar Cipher** algorithm.   It allows users to **encrypt** and **decrypt** text messages by providing a shift value.",
-  "main": "index.js",
+  "description": "3D replication of the Cartier Watches and Wonders Geneva Edition 2024 page.",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/iqam20/SCT-CS-01.git"
   },
-  "keywords": [],
+  "keywords": [
+    "cartier",
+    "3d",
+    "webgl"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/iqam20/SCT-CS-01/issues"
-  },
-  "homepage": "https://github.com/iqam20/SCT-CS-01#readme",
   "dependencies": {
     "playwright": "^1.59.1"
   },
